@@ -1,4 +1,4 @@
-```bash
+
 #!/bin/sh
 
 export LANG=en_US.UTF-8
@@ -103,5 +103,3 @@ else
     echo "退出程序"
     exit
 fi
-```
-
